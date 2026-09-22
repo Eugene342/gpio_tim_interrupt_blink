@@ -1,0 +1,15 @@
+# Build artifacts
+build/
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+
+# IDE stuff
+.vscode/
+.idea/
+*.swp
+*~
+Debug/
+Release/
